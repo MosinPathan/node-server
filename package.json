@@ -1,0 +1,12 @@
+{
+  "name": "git-repository",
+  "version": "1.0.0",
+  "description": "\"# node-server2\" \r \"# node-server2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
